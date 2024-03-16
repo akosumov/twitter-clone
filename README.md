@@ -40,7 +40,6 @@ npm i
 
 
 ```js
-# Deployment used by `npx convex dev`
 DATABASE_URL=
 NEXTAUTH_JWT_SECRET=
 NEXTAUTH_SECRET=
